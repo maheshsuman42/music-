@@ -1,0 +1,5 @@
+{
+  "name": "MelodyMart - AI Instrument Store",
+  "description": "A premium musical instrument e-commerce platform. Features simulated MERN-stack behavior (using LocalStorage as MongoDB), Admin/User roles, and an AI Sales Assistant powered by Gemini.",
+  "requestFramePermissions": []
+}
